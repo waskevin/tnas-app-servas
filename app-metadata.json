@@ -1,0 +1,17 @@
+{
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "developer": "管浩良",
+  "submission_status": "not_submitted",
+  "number": 8,
+  "screenshot_status": "pending",
+  "dual_arch": true,
+  "name": "Servas",
+  "source": "https://github.com/beromir/Servas",
+  "screenshot_path": "precheck-screenshots/servas/x86_64/run.png",
+  "developer_account": "k.kuan@qq.com",
+  "docker_hub": "beromir/servas",
+  "tag": "1"
+}
