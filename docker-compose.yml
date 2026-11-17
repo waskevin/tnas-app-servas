@@ -1,0 +1,6 @@
+services:
+  servas:
+    image: beromir/servas:1
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
